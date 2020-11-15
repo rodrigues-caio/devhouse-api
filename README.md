@@ -4,13 +4,9 @@
 
 ## Sobre
 
----
-
 Esta é uma API REST, que tem a finalidade de realizar cadastramento e aluguel de casas utilizando o email para realizar "login".
 
 ## Tecnologias Utilizadas
-
----
 
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
@@ -27,8 +23,6 @@ Esta é uma API REST, que tem a finalidade de realizar cadastramento e aluguel d
 
 ## Experiência Adquirida
 
----
-
 > - Criar o servidor
 > - Criação de rotas pelo express
 > - Métodos HTTP: GET | POST | PUT | DELETE
@@ -41,8 +35,4 @@ Esta é uma API REST, que tem a finalidade de realizar cadastramento e aluguel d
 
 ## Se deseja instalar:
 
----
-
 ## Endpoints
-
----
