@@ -35,4 +35,9 @@ Esta é uma API REST, que tem a finalidade de realizar cadastramento e aluguel d
 
 ## Se deseja instalar:
 
+**_Requisitos:_**
+
+1. É necessário que você faça uma string de conexão com o mongoDB;
+2. Instale o NodeJS (já vem com o NPM)
+
 ## Endpoints
